@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Nexphernandez
 
-¡Bienvenido a mi perfil de GitHub! 🚀 Actualmente estoy cursando **1º de Desarrollo de Aplicaciones Multiplataforma (DAM)**, donde estoy aprendiendo a crear aplicaciones robustas y funcionales tanto para escritorio como para dispositivos móviles. Aquí encontrarás proyectos que reflejan mi aprendizaje y pasión por la tecnología.
+¡Bienvenido a mi perfil de GitHub! 🚀 Actualmente estoy cursando **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**, donde estoy aprendiendo a crear aplicaciones robustas y funcionales tanto para escritorio como para dispositivos móviles. Aquí encontrarás proyectos que reflejan mi aprendizaje y pasión por la tecnología.
 
 ---
 
