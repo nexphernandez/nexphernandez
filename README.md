@@ -1,120 +1,130 @@
-# ¡Hola! 👋 Soy Nexphernandez
-
-![GIF divertido de programación](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
-¡Bienvenido a mi perfil de GitHub! 🚀 Actualmente estoy cursando **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**, donde aprendo a crear aplicaciones robustas para escritorio, web y dispositivos móviles. Aquí podrás descubrir mis proyectos, que reflejan mi evolución y pasión por la tecnología.
-
----
-
-## 🌟 Sobre mí
-
-- 🎓 **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).**
-- 💻 Apasionado por la programación, la resolución de problemas y el aprendizaje constante.
-- 🛠️ Experiencia en **Java**, **PHP**, **HTML**, **CSS**, **JavaScript**, y recientemente **Dart/Flutter** y **Docker**.
-- 📊 Interesado en el desarrollo web, aplicaciones móviles y la gestión de datos.
-
----
-
-## 📂 Proyectos Destacados
-
-### 🎮 [Buscaminas](https://github.com/nexphernandez/Buscaminas)
-Reinvención del clásico juego, con lógica en Java y una interfaz moderna en CSS.
-
-### 🛒 [Adict-Games](https://github.com/nexphernandez/Adict-Games)
-Tienda online para adquirir claves de videojuegos.  
-**Tecnologías:** Java, CSS
-
----
-
-## 🕹️ ¡Dos versiones del Juego del Ahorcado!
-
-<table>
-  <tr>
-    <td align="center">
-      <b>Versión Java (JavaFX)</b><br>
-      <a href="https://github.com/nexphernandez/Juego-del-ahorcado">
-        <img src="https://img.shields.io/badge/JavaFX-Interactive-blue?logo=java" alt="JavaFX"/>
-      </a><br>
-      <a href="https://github.com/nexphernandez/Juego-del-ahorcado">Juego-del-ahorcado</a>
-      <br>
-      <img src="https://media.giphy.com/media/4U0q4iFz5d2Eo/giphy.gif" width="180" alt="JavaFX Hangman"/>
-      <br>
-      <ul>
-        <li>Registro y autenticación de usuarios</li>
-        <li>Niveles de dificultad</li>
-        <li>Sistema de puntuación</li>
-        <li>Base de datos SQLite</li>
-        <li>Interfaz moderna con JavaFX</li>
-      </ul>
-    </td>
-    <td align="center">
-      <b>Versión PHP (Web)</b><br>
-      <a href="https://github.com/nexphernandez/Ahorcado">
-        <img src="https://img.shields.io/badge/PHP-Web-purple?logo=php" alt="PHP"/>
-      </a><br>
-      <a href="https://github.com/nexphernandez/Ahorcado">Ahorcado</a>
-      <br>
-      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" alt="PHP Hangman"/>
-      <br>
-      <ul>
-        <li>Interfaz web intuitiva y responsive</li>
-        <li>Palabras aleatorias y partidas rápidas</li>
-        <li>Despliegue con Docker</li>
-        <li>Perfecto para practicar desde cualquier navegador</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 Otros proyectos destacados
-
-- [**Programacion**](https://github.com/nexphernandez/Programacion): Ejercicios avanzados de estructuras de datos y colecciones en Java y JavaScript.
-- [**Acceso-a-datos**](https://github.com/nexphernandez/Acceso-a-datos): Actividades de clase centradas en el acceso y manipulación de datos usando PHP.
-- [**Programacion-de-servicios-y-procesos**](https://github.com/nexphernandez/Programacion-de-servicios-y-procesos): Prácticas orientadas a servicios y procesos en Java.
-- [**Desarrollo-de-interfaces**](https://github.com/nexphernandez/Desarrollo-de-interfaces): Primeros pasos en Flutter/Dart creando interfaces modernas y funcionales.
-- [Creacion-y-uso-de-elementos-basicos-en-php](https://github.com/nexphernandez/Creacion-y-uso-de-elementos-basicos-en-php)
-- [tienda-de-videojuegos](https://github.com/nexphernandez/tienda-de-videojuegos)
-- [ejercicio-git-libro](https://github.com/nexphernandez/ejercicio-git-libro)
-
----
-
-## 💻 Habilidades Técnicas
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- **Conocimientos clave:** Estructuras de datos, POO, desarrollo web, diseño de interfaces, contenerización y despliegue de apps.
-
----
-
-## 🌱 Próximos Proyectos y Metas
-
-- Desarrollar una app móvil usando **Kotlin** o profundizar en **Flutter**.
-- Implementar un sistema completo de gestión con base de datos avanzada.
-- Explorar la integración de APIs y el desarrollo multiplataforma.
-
----
-
-## 📫 ¡Conecta conmigo!
-
-¿Tienes ideas, sugerencias o te gustaría colaborar?  
-🌐 [Mi perfil de GitHub](https://github.com/nexphernandez)
-
----
+<!-- Encabezado con banner SVG animado profesional -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F1F,50:FFD700,100:00E1FF&height=140&section=header&text=Nexphernandez%20%7C%20Fullstack%20DAM&fontSize=40&fontAlignY=35" alt="banner"/>
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fqcm1saTQ3Y2VqM2Q4Z3Zwc2pud3k4MHYwMTlwMWpxY3Z2aG5wYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1rNWX1iN5bPpK/giphy.gif" width="260" alt="Gracias">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=F7B801&center=true&vCenter=true&width=700&lines=💻+Desarrollador+Multiplataforma;Aprendiendo+y+creando+software;Java+%E2%9C%A8+PHP+%F0%9F%92%A1+Web+%F0%9F%8C%90+Flutter+%F0%9F%92%BB" />
 </p>
 
 ---
 
-¡Gracias por visitar mi perfil! 🎉
+<h2 align="center">✨ Sobre mí</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2º DAM-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Code%20Lover-FF5F1F?style=for-the-badge&logo=coffeescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-00E1FF?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+- 🚀 Estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**
+- 🧑‍💻 Me encanta crear proyectos útiles y juegos adictivos.
+- ☕ Café, código y retos siempre en mi día a día.
+- 🏆 Buscando siempre la excelencia y el aprendizaje continuo.
+
+---
+
+<h2 align="center">🏆 Frase motivacional</h2>
+
+<blockquote align="center">
+  <b>“El código es mi lienzo, y cada bug es una oportunidad para aprender.”</b><br>
+  <i>— Nexphernandez</i>
+</blockquote>
+
+---
+
+<h2 align="center">🛠️ Mis Tecnologías Favoritas</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,php,html,css,js,dart,flutter,docker,mysql,git,github,maven" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,FF5F1F,12FF8F,00E1FF&height=4&section=header"/>
+</p>
+
+<!-- Proyectos destacados con tarjetas y color -->
+<h2 align="center">🚀 Proyectos Destacados</h2>
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="45%" bgcolor="#FFF7E8" style="border-radius:10px;">
+      <img src="https://img.shields.io/badge/JavaFX-Game-blue?logo=java" />
+      <br>
+      <b><a href="https://github.com/nexphernandez/Juego-del-ahorcado" style="color:#FF5F1F;font-size:18px;">Ahorcado (JavaFX)</a></b>
+      <br>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1wc2Vhb2Q3N3hxdmQ2ZzU2b2Fta2d2bXY4dGYzZ2h2eW5hcTNuMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPwoeGErMmaI43u/giphy.gif" width="110" />
+      <br>
+      <sub>JavaFX • Registro de usuarios • Niveles • SQLite</sub>
+    </td>
+    <td align="center" valign="top" width="45%" bgcolor="#E8F9FF" style="border-radius:10px;">
+      <img src="https://img.shields.io/badge/PHP-Web-purple?logo=php" />
+      <br>
+      <b><a href="https://github.com/nexphernandez/Ahorcado" style="color:#00E1FF;font-size:18px;">Ahorcado (PHP + Docker)</a></b>
+      <br>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5uZ2R5a3ZyN2NnZ2l6a3lkcHMzZzQ2d2N5YmZzb2Z6M3c1aXNmNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abB06u9bNzA8lu8/giphy.gif" width="110" />
+      <br>
+      <sub>PHP • Interfaz web • Palabras aleatorias • Docker</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p>
+<img src="https://img.shields.io/badge/Java-Green?logo=java" /> 
+<a href="https://github.com/nexphernandez/Buscaminas"><b>Buscaminas</b></a> · Java + CSS · UI moderna
+</p>
+<p>
+<img src="https://img.shields.io/badge/Java-Orange?logo=java" /> 
+<a href="https://github.com/nexphernandez/Adict-Games"><b>Adict-Games</b></a> · Tienda online videojuegos
+</p>
+
+</div>
+
+---
+
+<h2 align="center">📈 Otros proyectos</h2>
+
+<ul>
+  <li><a href="https://github.com/nexphernandez/Programacion"><b>Programacion</b></a>: Estructuras de datos y colecciones en Java y JS.</li>
+  <li><a href="https://github.com/nexphernandez/Acceso-a-datos"><b>Acceso-a-datos</b></a>: Prácticas de acceso y gestión de datos en PHP.</li>
+  <li><a href="https://github.com/nexphernandez/Desarrollo-de-interfaces"><b>Desarrollo-de-interfaces</b></a>: Primeros pasos en Flutter/Dart.</li>
+  <li><a href="https://github.com/nexphernandez?tab=repositories"><b>Más en mis repos...</b></a></li>
+</ul>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5F1F,FFD700,00E1FF,12FF8F&height=4&section=header"/>
+</p>
+
+<h2 align="center">🌱 Próximos retos</h2>
+
+- Dominar **Kotlin** y apps móviles nativas.
+- Crear sistemas de gestión avanzados con bases de datos.
+- APIs, microservicios y arquitectura moderna.
+
+---
+
+<h2 align="center">📫 ¿Charlamos?</h2>
+
+<p align="center">
+  <a href="https://github.com/nexphernandez">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,FF5F1F,12FF8F,00E1FF&height=4&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="Gracias por tu visita">
+</p>
+
+<p align="center"><b>¡Gracias por pasarte por mi perfil! 🚀</b></p>
