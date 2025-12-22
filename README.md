@@ -48,6 +48,7 @@
 * **[Calculadora React Native](https://github.com/nexphernandez/Proyecto_calculadora_pgl)** - Mi primera incursión en desarrollo móvil nativo con Expo.
 
 ### 📘 Fundamentos (1º DAM)
+* **[Adict Games](https://github.com/nexphernandez/Adict-Games)** - Tienda de videojuegos donde podrás comprar la clave de tus juegos favoritos.
 * **[Juego Ahorcado](https://github.com/nexphernandez/Juego-del-ahorcado)** - Aplicación de escritorio en JavaFX con SQLite.
 * **[Buscaminas Java](https://github.com/nexphernandez/Buscaminas)** - Lógica pura de juego con estilos CSS.
 
