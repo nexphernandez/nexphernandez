@@ -14,6 +14,15 @@
 ¡Hola! Soy <b>Nico</b>, estudiante de 2º de <b>DAM (Desarrollo de Aplicaciones Multiplataforma)</b>. Mi enfoque principal es el desarrollo fullstack, creando software funcional, escalable y con interfaces intuitivas.
 </p>
 
+### Curriculum 
+
+<p align="left">
+  <a href="https://github.com/user-attachments/files/24294565/CV.Nicolas.Exposito.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Descargar-Currículum_PDF-FF5F1F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV"/>
+  </a>
+</p>
+
+
 <p align="left">
   <img src="https://img.shields.io/badge/Grado-2º%20DAM-FFD700?style=flat-square&logo=graduation-cap&logoColor=black"/>
   <img src="https://img.shields.io/badge/Enfoque-Open%20Source-00E1FF?style=flat-square&logo=github&logoColor=white"/>
