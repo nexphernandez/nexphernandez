@@ -17,7 +17,7 @@
 ### Curriculum 
 
 <p align="left">
-  <a href="https://github.com/user-attachments/files/24294565/CV.Nicolas.Exposito.pdf" target="_blank">
+  <a href="https://github.com/user-attachments/files/25270917/Curriculum.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Descargar-Currículum_PDF-FF5F1F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV"/>
   </a>
 </p>
